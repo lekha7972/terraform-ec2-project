@@ -33,8 +33,6 @@ terraform destroy
 
 ---
 
-📸 Screenshots
-
 ### Screenshots
 
 #### Terraform Init
