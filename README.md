@@ -35,20 +35,24 @@ terraform destroy
 
 📸 Screenshots
 
+### Screenshots
 
- Terraform Init
+#### Terraform Init
 ![Init](screenshots/terraform-init.png)
 
- Terraform Plan
+#### Terraform Plan
 ![Plan](screenshots/terraform-plan.png)
 
- Terraform Apply
+#### Terraform Apply
 ![Apply](screenshots/terraform-apply.png)
 
- EC2 Instance Running
+#### Output Public IP
+![Output](screenshots/terraform-output-public-ip.png)
+
+#### EC2 Instance Running
 ![EC2](screenshots/ec2-instance-running.png)
 
- Terraform Destroy
+#### Terraform Destroy
 ![Destroy](screenshots/terraform-destroy.png)
 
 
