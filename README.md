@@ -29,12 +29,28 @@ This project demonstrates how to provision an AWS EC2 instance using Terraform. 
 terraform init
 terraform plan
 terraform apply
+terraform destroy
 
 ---
 
 📸 Screenshots
 
-Screenshots are available in the screenshots folder.
+
+ Terraform Init
+![Init](screenshots/terraform-init.png)
+
+ Terraform Plan
+![Plan](screenshots/terraform-plan.png)
+
+ Terraform Apply
+![Apply](screenshots/terraform-apply.png)
+
+ EC2 Instance Running
+![EC2](screenshots/ec2-instance-running.png)
+
+ Terraform Destroy
+![Destroy](screenshots/terraform-destroy.png)
+
 
 ---
 
