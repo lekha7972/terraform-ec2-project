@@ -55,4 +55,4 @@ terraform destroy
 ---
 
 👩‍💻 Author
-Lekha
+Lekha Priya
